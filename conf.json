@@ -1,4 +1,6 @@
 {
   "developer" : "Lisma Autia",
-  "stack" : "arduino"
+  "stack" : "arduino",
+  "agency": "Program Studi Ilmu Komputer, Fakultas Sains dan Teknologi, Universitas Islam Negeri Sumatera Utara",
+  "main_file" : "main.ino"
 }
